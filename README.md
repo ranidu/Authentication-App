@@ -30,8 +30,8 @@ http://localhost:9000/api/auth/register
     "firstName": "John", 
     "lastName": "Doe",
     "email": "john@mail.lk", 
-    "password": "!Berr1@123123", 
-    "rePassword": "!Berr1@123123"
+    "password": "!Test@123123", 
+    "rePassword": "!Test@123123"
 }
 
 validation rules.
@@ -49,7 +49,7 @@ http://localhost:9000/api/auth/login
 
 {
     "email": "john@mail.lk",
-    "password": "!Berr1@123123"
+    "password": "!Test@123123"
 }
 
 ```
