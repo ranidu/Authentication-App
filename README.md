@@ -1,4 +1,4 @@
-#Authentication App
+# Authentication App
 
 ## Quick Setup
 
@@ -59,4 +59,10 @@ http://localhost:9000/api/auth/login
 http://localhost:9000/api/user/me
 
 Authentication token should attached as a bearer token in header to access this endpoint
+```
+
+## Running Test Cases
+
+```
+npm run test
 ```

@@ -1,3 +1,4 @@
 {
-    "db": "mongodb://localhost/testdb"
+    "db": "mongodb://localhost/testdb",
+    "secretKey": "testPrivateKey"
 }
